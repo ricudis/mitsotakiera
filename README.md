@@ -1,5 +1,4 @@
-yAnd now, ladies and gentlemen, we present you with the ultimate hardware accessory
-from RIKAFR SYSTEMS,
+And now, ladies and gentlemen, we present you with the ultimate hardware accessory from RIKAFR SYSTEMS,
 
 ### The Mitsotakiera
 
