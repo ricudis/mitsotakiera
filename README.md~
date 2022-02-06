@@ -68,12 +68,8 @@ You will need two Raspberry PICOs, some jumper cables and one USB OTG adapter to
 
 > How do I connect them? 
 
-Figure it out from the code, it's trivial. See the video.
+Figure it out from the code, it's trivial.
 
 ### The Mitsoware
 
 Everything is included in this repo. 
-
-### The Video
-
-https://www.youtube.com/watch?v=bROiBvMvHjc
